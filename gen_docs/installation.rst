@@ -15,7 +15,7 @@ To use the module, please put the radarsimpy folder within your project folder a
     - your_project.ipynb
     - radarsimpy
         - __init__.py
-        - radarsimcpp.dll
+        - (not required for radarsimallpy) radarsimcpp.dll
         - scene.xxx.pyd
         - ...
 
@@ -28,6 +28,6 @@ To use the module, please put the radarsimpy folder within your project folder a
     - your_project.ipynb
     - radarsimpy
         - __init__.py
-        - libradarsimcpp.so
+        - (not required for radarsimallpy) libradarsimcpp.so
         - scene.xxx.so
         - ...
